@@ -1,0 +1,2 @@
+# Magentolog
+Dump cc + mail
